@@ -1,3 +1,4 @@
 jieba==0.42.1
 pandas==2.0.3
 stylecloud==0.5.2
+urllib3==1.26.15
